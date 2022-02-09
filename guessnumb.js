@@ -60,4 +60,3 @@ function resetGame() {
 }
 
 
-// Med hjelp av https://www.codespeedy.com/guess-the-number-game-using-javascript/
