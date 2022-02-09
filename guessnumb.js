@@ -46,7 +46,7 @@ function setGameOver() {
 }
 function resetGame() {
     guessCount = 1;
-    var resetParas = document.querySelectorAll('.resultParas p');
+    var resetParas = document.querySelectorAll('.resultat p');
     for (var i = 0; i < resetParas.length; i++) {
         resetParas[i].textContent = '';
     }
